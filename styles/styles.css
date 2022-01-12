@@ -580,3 +580,12 @@ caption {
 .cnt-icon {
     margin-left: 20%;
 }
+.text {
+    height: 100px;
+    width: 500px;
+}
+@media (max-width: 1028px) {
+    .text{
+        width: 100%;
+    }
+}
